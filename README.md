@@ -1,4 +1,5 @@
-# Tutedude-assignments
+This repository contains solutions for *Assignment 1 - Basic Python Concepts* as part of Module 2 of the Python course.
+
 ##  Task 1: Basic Mathematical Operations
 - Takes two numbers as input.
 - Performs Addition, Subtraction, Multiplication, and Division.
