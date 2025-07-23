@@ -27,3 +27,26 @@ This repository contains two Python scripts for Assignment 3 as part of Module 4
   - Square root
   - Natural logarithm (base e)
   - Sine (in radians)
+
+# Assignment 4 - Files, Exceptions, and Errors in Python
+
+This repository contains two Python scripts as part of Module 5.
+
+##  Task 1: Read a File and Handle Errors
+- Opens and reads a file named sample.txt.
+- Prints its contents line by line.
+- Handles the case when the file does not exist.
+
+### File: read_file_task.py
+
+##  Task 2: Write and Append Data to a File
+- Takes user input and writes it to a file called output.txt.
+- Appends additional data.
+- Displays the final content of the file.
+
+### File: write_append_file_task.py
+
+##  Instructions
+1. Run each script using a Python interpreter.
+2. For Task 1, make sure sample.txt exists in the same directory (or test the error handling).
+3. For Task 2, follow the input prompts.
