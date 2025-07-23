@@ -50,3 +50,15 @@ This repository contains two Python scripts as part of Module 5.
 1. Run each script using a Python interpreter.
 2. For Task 1, make sure sample.txt exists in the same directory (or test the error handling).
 3. For Task 2, follow the input prompts.
+
+
+# Assignment 5: Data Structures and Strings in Python
+
+This repository includes solutions to Assignment 5 from Module 6 of the Python course.
+
+## Task 1: Dictionary of Student Marks
+
+- A dictionary stores student names as keys and their marks as values.
+- The user is prompted to enter a student’s name.
+- If the name exists, the corresponding marks are shown.
+- If not, an appropriate message is displayed.
