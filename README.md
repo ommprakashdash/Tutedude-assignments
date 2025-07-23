@@ -79,3 +79,20 @@ This project is a simple GUI calculator built using Python's Tkinter library.
 
 1. Ensure Python 3 is installed.
 2. Run the script:
+
+
+# Tkinter Calculator – Assignment 7 (Module 10 & 11)
+
+## Description
+This project is a basic calculator built using Python's Tkinter module for GUI-based interaction.
+
+### Features:
+- Supports: addition, subtraction, multiplication, and division
+- Handles decimals
+- Simple user interface
+- Error handling for invalid expressions
+
+## How to Run
+1. Ensure you have Python installed.
+2. Open a terminal in the project folder.
+3. Run the script with:
